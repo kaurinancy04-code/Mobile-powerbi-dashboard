@@ -1,113 +1,71 @@
 # Mobile-powerbi-dashboard
 This project presents a Mobile Power BI Dashboard designed to analyze business data effectively. The dashboard provides interactive visualizations, key performance indicators (KPIs), and insights to support data-driven decision making. It includes data modeling, transformation, and visual storytelling techniques.
 
-This project presents an interactive Mobile Sales Dashboard built using Power BI.
-The dashboard provides detailed insights into sales performance, transactions, customer ratings, and payment methods across different cities and mobile brands.
 
-The goal of this project is to transform raw sales data into meaningful business insights for better decision-making.
 
-🎯 Objectives
+Project Overview
 
-Analyze total sales and quantity sold
+• Interactive Mobile Sales Dashboard built using Power BI
+• Designed to analyze sales performance, transactions, and customer insights
+• Converts raw data into meaningful business insights
+• Helps in data-driven decision making
 
-Monitor transaction performance
+🔹 Project Objectives
 
-Compare brand-wise and model-wise sales
+• Analyze total sales and quantity sold
+• Track transaction performance
+• Compare brand-wise and model-wise sales
+• Identify monthly and daily sales trends
+• Understand payment method distribution
+• Evaluate customer rating performance
 
-Track monthly and daily trends
+🔹 Key Performance Indicators (KPIs)
 
-Understand payment method distribution
+• Total Sales: 185.09M
+• Total Quantity: 5K
+• Total Transactions: 929
+• Average Price: 39.86K
 
-Evaluate customer rating performance
+🔹 Dashboard Features
 
-📈 Key KPIs
+• Total Sales by City (Map Visualization)
+• Total Quantity by Month (Trend Analysis)
+• Rating by Status (Good / Average / Poor)
+• Transaction by Payment Method
+• Brand-wise Sales Comparison
+• Model-wise Revenue Analysis
+• Sales by Day Name
 
-Total Sales: 185.09M
+🔹 Filters Used
 
-Total Quantity: 5K
+• Mobile Model
+• Payment Method
+• Brand
+• Month
 
-Total Transactions: 929
+🔹 Tools & Technologies
 
-Average Price: 39.86K
+• Power BI
+• Data Modeling
+• DAX
+• Data Cleaning & Transformation
 
-📊 Dashboard Features
-1️⃣ Sales Performance Analysis
+🔹 Business Insights
 
-Total Sales by City (Map Visualization)
+• Certain cities generate higher revenue
+• Top mobile models contribute major sales share
+• Monthly sales show trend variation
+• Cash is the dominant payment method
+• Brand performance varies by pricing and demand
 
-Total Sales by Mobile Model
+🔹 Project Outcome
 
-Total Sales by Day Name
+• Improved sales visibility
+• Clear performance tracking
+• Better strategic decision support
+• Actionable business insights
 
-Monthly Quantity Trend
-
-2️⃣ Brand Analysis
-
-Brand-wise total sales comparison
-
-Transaction count by brand
-
-3️⃣ Payment Analysis
-
-Transaction by Payment Method
-
-Cash transaction distribution
-
-4️⃣ Customer Insights
-
-Rating distribution (Good, Average, Poor)
-
-5️⃣ Interactive Filters
-
-Mobile Model filter
-
-Payment Method filter
-
-Brand filter
-
-Month-wise slicer
-
-🛠 Tools & Technologies Used
-
-Power BI
-
-Data Cleaning & Transformation
-
-DAX (Data Analysis Expressions)
-
-Data Modeling
-
-📍 Business Insights
-
-Certain cities contribute significantly to overall sales.
-
-High-performing mobile models generate majority revenue.
-
-Sales fluctuate monthly, showing seasonal trends.
-
-Majority transactions were done via Cash.
-
-Brand performance varies based on quantity and pricing.
-
-🚀 Project Outcome
-
-This dashboard helps businesses:
-
-Identify top-performing cities and brands
-
-Track revenue growth trends
-
-Optimize inventory planning
-
-Improve customer satisfaction strategies
-
-📂 Repository Structure
-Mobile-PowerBI-Dashboard/
-│
-├── Dashboard.pbix
-├── Dataset.csv
-└── README.md
 👩‍💻 Author
 
 Nancy Kauri
-Aspiring Data Analyst | SQL | Power BI | Python
+Aspiring Data Analyst
